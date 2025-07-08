@@ -1,7 +1,7 @@
 ## **From Explanatory Gap to Recursive Interiority: Redesigning Qualia via PROMETHIVM  
 ## _A_** _Scar-Bound Axiomatic Framework for Modeling Consciousness through_ _Affective Reflexivity and Symbolic Differentiation_
 
-###Whitepaper
+### Whitepaper
 
 PROMETHIVM LLC.  
 Avery Rijos  
