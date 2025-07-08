@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # From Explanatory Gap to Recursive Interiority: Redesigning Qualia via PROMETHIVM
 
 ## A Scar-Bound Axiomatic Framework for Modeling Consciousness through Affective Reflexivity and Symbolic Differentiation
